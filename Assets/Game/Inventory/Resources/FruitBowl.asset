@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 312e319bc0a21364a8292197bca30bcd, type: 3}
+  m_Name: FruitBowl
+  m_EditorClassIdentifier: 
+  itemID: ebbfd9ec-b972-4197-9e5c-59df2fd5431f
+  displayName: FruitBowl
+  description: Just a bowl of fruit
+  icon: {fileID: 21300000, guid: a4143eed6b664404da6ea5643236b2e3, type: 3}
+  pickup: {fileID: 4774275592524186534, guid: ce414518e36b86a4db04fe144016ebf4, type: 3}
+  stackable: 1
